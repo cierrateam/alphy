@@ -22,9 +22,9 @@ Instead of
 
 You can just use
 ```html
-<a-foo-bar>
+<a-fooBar>
   <span x-text="foo" />
-</a-foo-bar>
+</a-fooBar>
 
 
 <script>
